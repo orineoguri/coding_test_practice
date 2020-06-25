@@ -5,5 +5,7 @@
 푼 문제목록
 * 2 x n 타일링
 * 정수삼각형
+* 타일 장식물
+* 단어 변환
 
 > *출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges*
