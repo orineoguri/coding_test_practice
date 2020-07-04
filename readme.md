@@ -8,5 +8,6 @@
 * [타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
 * [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 * [예산](https://programmers.co.kr/learn/courses/30/lessons/43237)
+* [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 > *출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges*
