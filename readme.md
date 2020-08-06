@@ -11,5 +11,6 @@
 * [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 * [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)
 * [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)
+* [보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)
 
 > *출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges*
